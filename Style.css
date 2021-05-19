@@ -2,9 +2,14 @@ body {
   text-align: center;
   background-image: url("fond.jpg");
 }
-h1 + p {
-  font-size: 40%;
+p {
+  font-size: 125%;
 }
+
+h1 + p {
+  font-size: 50%;
+}
+
 h1 {
   color: yellow;
   text-shadow: 3px -3px 4px #c9ff5b;
@@ -13,7 +18,4 @@ h1 {
 
 .petit {
   font-size: 1%;
-}
-p {
-  font-size: 120%;
 }
