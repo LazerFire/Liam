@@ -2,6 +2,7 @@ body {
   text-align: center;
   font-size: 150%;
   background-image: url("fond.jpg");
+  width: 100%;
 }
 h1 + p {
   font-size: 40%;
