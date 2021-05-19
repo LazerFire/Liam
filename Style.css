@@ -1,3 +1,16 @@
 body {
   text-align: center;
+  font-size: 150%;
+  background-image: url("fond.jpg");
+}
+h1 + p {
+  font-size: 40%;
+}
+h1 {
+  color: yellow;
+  text-shadow: 3px -3px 4px #c9ff5b;
+}
+
+.petit {
+  font-size: 1%;
 }
