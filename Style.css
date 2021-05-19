@@ -1,8 +1,6 @@
 body {
   text-align: center;
-  font-size: 150%;
   background-image: url("fond.jpg");
-  width: 100%;
 }
 h1 + p {
   font-size: 40%;
@@ -10,8 +8,12 @@ h1 + p {
 h1 {
   color: yellow;
   text-shadow: 3px -3px 4px #c9ff5b;
+  font-size: 250%;
 }
 
 .petit {
   font-size: 1%;
+}
+p {
+  font-size: 120%;
 }
